@@ -1,0 +1,40 @@
+﻿<Window x:Class="TarkovPrice.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TarkovPrice.Views"
+        xmlns:drawing="clr-namespace:System.Drawing;assembly=System.Drawing.Common"
+        mc:Ignorable="d"
+        Title="Tarkov Price" Height="450" Width="800" MinHeight="600" MinWidth="1024"
+        WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="80" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="80" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+
+
+        <Button x:Name="AnalyzeAsync" Grid.Column="3" Grid.Row="1" IsEnabled="{Binding AnalyzeAsyncEnabled}">Analyze!</Button>
+        <Button x:Name="OpenConfigurationWindow" Grid.Column="5" Grid.Row="1">Configuration</Button>
+
+
+        <Image x:Name="OutputImage" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="2" Margin="5,5,5,5"/>
+
+        <TextBlock Grid.Column="4" Grid.Row="3" Text="Data powered by &#x0a;tarkov-market.com"></TextBlock>
+        <TextBlock x:Name="DataStatus" Grid.Column="5" Grid.Row="3" TextAlignment="Center" TextWrapping="Wrap" FontWeight="Bold"></TextBlock>
+
+    </Grid>
+</Window>

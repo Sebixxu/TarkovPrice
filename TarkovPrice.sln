@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarkovPrice", "TarkovPrice\TarkovPrice.csproj", "{A9AD9BA6-EE98-4211-9BCD-B1FECA4D0E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCapture", "ScreenCapture\ScreenCapture.csproj", "{AF30FDE8-92B9-42BE-A151-117774B965DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing", "ImageProcessing\ImageProcessing.csproj", "{3DB2AD34-69FC-4EB0-BEEB-87A6FB820755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarkovMarket", "TarkovMarket\TarkovMarket.csproj", "{F4E7F5DD-5B6D-4769-AB1B-858E8E1F332F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AD9BA6-EE98-4211-9BCD-B1FECA4D0E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AD9BA6-EE98-4211-9BCD-B1FECA4D0E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AD9BA6-EE98-4211-9BCD-B1FECA4D0E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AD9BA6-EE98-4211-9BCD-B1FECA4D0E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF30FDE8-92B9-42BE-A151-117774B965DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF30FDE8-92B9-42BE-A151-117774B965DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF30FDE8-92B9-42BE-A151-117774B965DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF30FDE8-92B9-42BE-A151-117774B965DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB2AD34-69FC-4EB0-BEEB-87A6FB820755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB2AD34-69FC-4EB0-BEEB-87A6FB820755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB2AD34-69FC-4EB0-BEEB-87A6FB820755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB2AD34-69FC-4EB0-BEEB-87A6FB820755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E7F5DD-5B6D-4769-AB1B-858E8E1F332F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E7F5DD-5B6D-4769-AB1B-858E8E1F332F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E7F5DD-5B6D-4769-AB1B-858E8E1F332F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E7F5DD-5B6D-4769-AB1B-858E8E1F332F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA8409D-8F42-4D52-AC6D-F93E61DFA0A6}
+	EndGlobalSection
+EndGlobal
