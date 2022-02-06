@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+   <item id="1" itemName="Secure Flash drive" imageName="barter\secure_flash_drive.png" />
+   <item id="2" itemName="SSD drive" imageName="barter\ssd_drive.png" />
+   <item id="3" itemName="Intelligence folder" imageName="barter\intelligence_folder.png" />
+   <item id="4" itemName="Physical bitcoin" imageName="barter\physical_bitcoin.png" />
+   <item id="5" itemName="Bronze lion" imageName="barter\bronze_lion.png" />
+   <item id="6" itemName="Graphics card" imageName="barter\graphics_card.png" />
+   <item id="7" itemName="Corrugated hose" imageName="barter\corrugated_hose.png" />
+   <item id="8" itemName="Car battery" imageName="barter\car_battery.png" />
+   <item id="9" itemName="FP-100 filter absorber" imageName="barter\fp-100_filter_absorber.png" />
+   <item id="10" itemName="6-STEN-140-M military battery" imageName="barter\6-sten-140-m_military_battery.png" />
+   <item id="11" itemName="LEDX Skin Transilluminator" imageName="barter\ledx_skin_transilluminator.png" />
+   <item id="12" itemName="NIXXOR lens" imageName="barter\nixxor_lens.png" />
+   <item id="13" itemName="Metal cutting scissors" imageName="barter\metal_cutting_scissors.png" />
+   <item id="14" itemName="Chain with Prokill medallion" imageName="barter\chain_with_prokill_medallion.png" />
+   <item id="15" itemName="Tetriz portable game console" imageName="barter\tetriz_portable_game_console.png" />
+   <item id="16" itemName="Deadlyslob's beard oil" imageName="barter\deadlyslob's_beard_oil.png" />
+   <item id="17" itemName="Roler Submariner gold wrist watch" imageName="barter\roler_submariner_gold_wrist_watch.png" />
+   <item id="18" itemName="42nd Signature Blend English Tea" imageName="barter\42nd_signature_blend_english_tea.png" />
+   <item id="19" itemName="Portable Powerbank" imageName="barter\portable_powerbank.png" />
+   <item id="20" itemName="Ophthalmoscope" imageName="barter\ophthalmoscope.png" />
+   <item id="21" itemName="Dry fuel" imageName="barter\dry_fuel.png" />
+   <item id="22" itemName="Alkaline cleaner for heat exchangers" imageName="barter\alkaline_cleaner_for_heat_exchangers.png" />
+   <item id="23" itemName="5L propane tank" imageName="barter\5l_propane_tank.png" />
+   <item id="24" itemName="Medical bloodset" imageName="barter\medical_bloodset.png" />
+   <item id="25" itemName="Shustrilo sealing foam" imageName="barter\shustrilo_sealing_foam.png" />
+   <item id="26" itemName="Clin window cleaner" imageName="barter\clin_window_cleaner.png" />
+   <item id="27" itemName="Magnet" imageName="barter\magnet.png" />
+   <item id="28" itemName="Soap" imageName="barter\soap.png" />
+   <item id="29" itemName="Golden neck chain" imageName="barter\golden_neck_chain.png" />
+   <item id="30" itemName="Chainlet" imageName="barter\chainlet.png" />
+   <item id="31" itemName="Silver Badge" imageName="barter\silver_badge.png" />
+   <item id="32" itemName="Pliers" imageName="barter\pliers.png" />
+   <item id="33" itemName="Wrench" imageName="barter\wrench.png" />
+   <item id="34" itemName="Screwdriver" imageName="barter\screwdriver.png" />
+   <item id="35" itemName="Printer paper" imageName="barter\printer_paper.png" />
+   <item id="36" itemName="T-Shaped plug" imageName="barter\t-shaped_plug.png" />
+   <item id="37" itemName="USB Adapter" imageName="barter\usb_adapter.png" />
+   <item id="38" itemName="Toothpaste" imageName="barter\toothpaste.png" />
+   <item id="39" itemName="Construction measuring tape" imageName="barter\construction_measuring_tape.png" />
+   <item id="40" itemName="Duct tape" imageName="barter\duct_tape.png" />
+   <item id="41" itemName="Power cord" imageName="barter\power_cord.png" />
+   <item id="42" itemName="RAM" imageName="barter\ram.png" />
+   <item id="43" itemName="PC CPU" imageName="barter\pc_cpu.png" />
+   <item id="44" itemName="CPU Fan" imageName="barter\cpu_fan.png" />
+   <item id="45" itemName="Broken GPhone smartphone" imageName="barter\broken_gphone_smartphone.png" />
+   <item id="46" itemName="Ultraviolet lamp" imageName="barter\ultraviolet_lamp.png" />
+   <item id="47" itemName="D Size battery" imageName="barter\d_size_battery.png" />
+   <item id="48" itemName="AA Battery" imageName="barter\aa_battery.png" />
+   <item id="49" itemName="Broken GPhone X smartphone" imageName="barter\broken_gphone_x_smartphone.png" />
+   <item id="50" itemName="Capacitors" imageName="barter\capacitors.png" />
+   <item id="51" itemName="Gas analyzer" imageName="barter\gas_analyzer.png" />
+   <item id="52" itemName="Wooden clock" imageName="barter\wooden_clock.png" />
+   <item id="53" itemName="Cat figurine" imageName="barter\cat_figurine.png" />
+   <item id="54" itemName="Strike Cigarettes" imageName="barter\strike_cigarettes.png" />
+   <item id="55" itemName="Energy-saving lamp" imageName="barter\energy-saving_lamp.png" />
+   <item id="56" itemName="Zibbo lighter" imageName="barter\zibbo_lighter.png" />
+   <item id="57" itemName="Bolts" imageName="barter\bolts.png" />
+   <item id="58" itemName="Screw nuts" imageName="barter\screw_nuts.png" />
+   <item id="59" itemName="Expeditionary fuel tank" imageName="barter\expeditionary_fuel_tank.png" />
+   <item id="60" itemName="Paracord" imageName="barter\paracord.png" />
+   <item id="61" itemName="Dogtag USEC" imageName="barter\dogtag_usec.png" />
+   <item id="62" itemName="Dogtag BEAR" imageName="barter\dogtag_bear.png" />
+   <item id="63" itemName="Pack of nails" imageName="barter\pack_of_nails.png" />
+   <item id="64" itemName="Nippers" imageName="barter\nippers.png" />
+   <item id="65" itemName="Hand drill" imageName="barter\hand_drill.png" />
+   <item id="66" itemName="Insulating tape" imageName="barter\insulating_tape.png" />
+   <item id="67" itemName="Military COFDM wireless Signal Transmitter" imageName="barter\military_cofdm_wireless_signal_transmitter.png" />
+   <item id="68" itemName="SAS drive" imageName="barter\sas_drive.png" />
+   <item id="69" itemName="Rechargeable battery" imageName="barter\rechargeable_battery.png" />
+   <item id="70" itemName="Slim diary" imageName="barter\slim_diary.png" />
+   <item id="71" itemName="Diary" imageName="barter\diary.png" />
+   <item id="72" itemName="Phase control relay" imageName="barter\phase_control_relay.png" />
+   <item id="73" itemName="Flat screwdriver (Long)" imageName="barter\flat_screwdriver_(long).png" />
+   <item id="74" itemName="Radiator helix" imageName="barter\radiator_helix.png" />
+   <item id="75" itemName="Old firesteel" imageName="barter\old_firesteel.png" />
+   <item id="76" itemName="Can of Majaica coffee beans" imageName="barter\can_of_majaica_coffee_beans.png" />
+   <item id="77" itemName="Gold skull ring" imageName="barter\gold_skull_ring.png" />
+   <item id="78" itemName="Broken LCD" imageName="barter\broken_lcd.png" />
+   <item id="79" itemName="Battered antique book" imageName="barter\battered_antique_book.png" />
+   <item id="80" itemName="Golden 1GPhone smartphone" imageName="barter\golden_1gphone_smartphone.png" />
+   <item id="81" itemName="Gas mask air filter" imageName="barter\gas_mask_air_filter.png" />
+   <item id="82" itemName="Bottle of hydrogen peroxide" imageName="barter\bottle_of_hydrogen_peroxide.png" />
+   <item id="83" itemName="Antique teapot" imageName="barter\antique_teapot.png" />
+   <item id="84" itemName="Pliers Elite" imageName="barter\pliers_elite.png" />
+   <item id="85" itemName="Portable defibrillator" imageName="barter\portable_defibrillator.png" />
+   <item id="86" itemName="Pack of screws" imageName="barter\pack_of_screws.png" />
+   <item id="87" itemName="Silicone tube" imageName="barter\silicone_tube.png" />
+   <item id="88" itemName="#FireKlean gun lube" imageName="barter\#fireklean_gun_lube.png" />
+   <item id="89" itemName="Xenomorph sealing foam" imageName="barter\xenomorph_sealing_foam.png" />
+   <item id="90" itemName="Ortodontox toothpaste" imageName="barter\ortodontox_toothpaste.png" />
+   <item id="91" itemName="Classic matches" imageName="barter\classic_matches.png" />
+   <item id="92" itemName="Virtex programmable processor" imageName="barter\virtex_programmable_processor.png" />
+   <item id="93" itemName="Malboro Cigarettes" imageName="barter\malboro_cigarettes.png" />
+   <item id="94" itemName="WD-40 (100ml)" imageName="barter\wd-40_(100ml).png" />
+   <item id="95" itemName="Fuel conditioner" imageName="barter\fuel_conditioner.png" />
+   <item id="96" itemName="Apollo Soyuz cigarettes" imageName="barter\apollo_soyuz_cigarettes.png" />
+   <item id="97" itemName="Power supply unit" imageName="barter\power_supply_unit.png" />
+   <item id="98" itemName="Pile of meds" imageName="barter\pile_of_meds.png" />
+   <item id="99" itemName="Golden rooster" imageName="barter\golden_rooster.png" />
+   <item id="100" itemName="Phased array element" imageName="barter\phased_array_element.png" />
+   <item id="101" itemName="Damaged hard drive" imageName="barter\damaged_hard_drive.png" />
+   <item id="102" itemName="Printed circuit board" imageName="barter\printed_circuit_board.png" />
+   <item id="103" itemName="Electric drill" imageName="barter\electric_drill.png" />
+   <item id="104" itemName="WD-40 (400ml)" imageName="barter\wd-40_(400ml).png" />
+   <item id="105" itemName="Schaman shampoo" imageName="barter\schaman_shampoo.png" />
+   <item id="106" itemName="Military gyrotachometer" imageName="barter\military_gyrotachometer.png" />
+   <item id="107" itemName="Metal fuel tank" imageName="barter\metal_fuel_tank.png" />
+   <item id="108" itemName="Antique vase" imageName="barter\antique_vase.png" />
+   <item id="109" itemName="Working LCD" imageName="barter\working_lcd.png" />
+   <item id="110" itemName="Weapon parts" imageName="barter\weapon_parts.png" />
+   <item id="111" itemName="Iridium military thermal vision module" imageName="barter\iridium_military_thermal_vision_module.png" />
+   <item id="112" itemName="PAID AntiRoach spray" imageName="barter\paid_antiroach_spray.png" />
+   <item id="113" itemName="UHF RFID Reader" imageName="barter\uhf_rfid_reader.png" />
+   <item id="114" itemName="Tech manual" imageName="barter\tech_manual.png" />
+   <item id="115" itemName="Light bulb" imageName="barter\light_bulb.png" />
+   <item id="116" itemName="Spark plug" imageName="barter\spark_plug.png" />
+   <item id="117" itemName="Toolset" imageName="barter\toolset.png" />
+   <item id="118" itemName="Wilston cigarettes" imageName="barter\wilston_cigarettes.png" />
+   <item id="119" itemName="Horse figurine" imageName="barter\horse_figurine.png" />
+   <item id="120" itemName="Ox bleach" imageName="barter\ox_bleach.png" />
+   <item id="121" itemName="Geiger-Muller counter" imageName="barter\geiger-muller_counter.png" />
+   <item id="122" itemName="VPX Flash Storage Module" imageName="barter\vpx_flash_storage_module.png" />
+   <item id="123" itemName="Plexiglass piece" imageName="barter\plexiglass_piece.png" />
+   <item id="124" itemName="Military cable" imageName="barter\military_cable.png" />
+   <item id="125" itemName="Bundle of wires" imageName="barter\bundle_of_wires.png" />
+   <item id="126" itemName="Bottle of saline solution" imageName="barter\bottle_of_saline_solution.png" />
+   <item id="127" itemName="OFZ 30x160mm shell" imageName="barter\ofz_30x160mm_shell.png" />
+   <item id="128" itemName="Toilet paper" imageName="barter\toilet_paper.png" />
+   <item id="129" itemName="DVD drive" imageName="barter\dvd_drive.png" />
+   <item id="130" itemName="Electric motor" imageName="barter\electric_motor.png" />
+   <item id="131" itemName="Water filter" imageName="barter\water_filter.png" />
+   <item id="132" itemName="Pack of sodium bicarbonate" imageName="barter\pack_of_sodium_bicarbonate.png" />
+   <item id="133" itemName="GP coin" imageName="barter\gp_coin.png" />
+   <item id="134" itemName="Crickent lighter" imageName="barter\crickent_lighter.png" />
+   <item id="135" itemName="Disposable syringe" imageName="barter\disposable_syringe.png" />
+   <item id="136" itemName="Military circuit board" imageName="barter\military_circuit_board.png" />
+   <item id="137" itemName="Round pliers" imageName="barter\round_pliers.png" />
+   <item id="138" itemName="Military power filter" imageName="barter\military_power_filter.png" />
+   <item id="139" itemName="Pressure gauge" imageName="barter\pressure_gauge.png" />
+   <item id="140" itemName="Analog thermometer" imageName="barter\analog_thermometer.png" />
+   <item id="141" itemName="Flat screwdriver" imageName="barter\flat_screwdriver.png" />
+   <item id="142" itemName="TP-200 TNT brick" imageName="barter\tp-200_tnt_brick.png" />
+   <item id="143" itemName="Can of thermite" imageName="barter\can_of_thermite.png" />
+   <item id="144" itemName="Ratchet wrench" imageName="barter\ratchet_wrench.png" />
+   <item id="145" itemName="LVNDMARK's rat poison" imageName="barter\lvndmark's_rat_poison.png" />
+   <item id="146" itemName="Loot Lord plushie" imageName="barter\loot_lord_plushie.png" />
+   <item id="147" itemName="Medical tools" imageName="barter\medical_tools.png" />
+   <item id="148" itemName="Military corrugated tube" imageName="barter\military_corrugated_tube.png" />
+   <item id="149" itemName="Pipe grip wrench" imageName="barter\pipe_grip_wrench.png" />
+   <item id="150" itemName="Bulbex cable cutter" imageName="barter\bulbex_cable_cutter.png" />
+   <item id="151" itemName="Metal spare parts" imageName="barter\metal_spare_parts.png" />
+   <item id="152" itemName="Sewing kit" imageName="barter\sewing_kit.png" />
+   <item id="153" itemName="Secured magnetic tape cassette" imageName="barter\secured_magnetic_tape_cassette.png" />
+   <item id="154" itemName="Christmas tree ornament (Red)" imageName="barter\christmas_tree_ornament_(red).png" />
+   <item id="155" itemName="Christmas tree ornament (Silver)" imageName="barter\christmas_tree_ornament_(silver).png" />
+   <item id="156" itemName="Christmas tree ornament (Violet)" imageName="barter\christmas_tree_ornament_(violet).png" />
+   <item id="157" itemName="Aramid fiber fabric" imageName="barter\aramid_fiber_fabric.png" />
+   <item id="158" itemName="Ripstop fabric" imageName="barter\ripstop_fabric.png" />
+   <item id="159" itemName="Fleece fabric" imageName="barter\fleece_fabric.png" />
+   <item id="160" itemName="Cordura polyamide fabric" imageName="barter\cordura_polyamide_fabric.png" />
+   <item id="161" itemName="SurvL Survivor Lighter" imageName="barter\survl_survivor_lighter.png" />
+   <item id="162" itemName="Hunting matches" imageName="barter\hunting_matches.png" />
+   <item id="163" itemName="KEKTAPE duct tape" imageName="barter\kektape_duct_tape.png" />
+   <item id="164" itemName="Tube of Poxeram cold welding" imageName="barter\tube_of_poxeram_cold_welding.png" />
+   <item id="165" itemName="Smoked Chimney drain cleaner" imageName="barter\smoked_chimney_drain_cleaner.png" />
+   <item id="166" itemName="Pack of chlorine" imageName="barter\pack_of_chlorine.png" />
+   <item id="167" itemName="Repellent" imageName="barter\repellent.png" />
+   <item id="168" itemName="Cyclon rechargeable battery" imageName="barter\cyclon_rechargeable_battery.png" />
+   <item id="169" itemName="GreenBat lithium battery" imageName="barter\greenbat_lithium_battery.png" />
+   <item id="170" itemName="Raven figurine" imageName="barter\raven_figurine.png" />
+   <item id="171" itemName="Can of Dr. Lupo's coffee beans" imageName="barter\can_of_dr._lupo's_coffee_beans.png" />
+   <item id="172" itemName="Veritas guitar pick" imageName="barter\veritas_guitar_pick.png" />
+   <item id="173" itemName="Gunpowder &#34;Kite&#34;" imageName="barter\gunpowder_kite.png" />
+   <item id="174" itemName="Gunpowder &#34;Hawk&#34;" imageName="barter\gunpowder_hawk.png" />
+   <item id="174" itemName="Gunpowder &#34;Eagle&#34;" imageName="barter\gunpowder_eagle.png" />
+</items>

@@ -9,6 +9,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="data\**" />
+    <Compile Remove="input\**" />
+    <Compile Remove="output\**" />
+    <Compile Remove="_templates\**" />
+    <EmbeddedResource Remove="data\**" />
+    <EmbeddedResource Remove="input\**" />
+    <EmbeddedResource Remove="output\**" />
+    <EmbeddedResource Remove="_templates\**" />
+    <None Remove="data\**" />
+    <None Remove="input\**" />
+    <None Remove="output\**" />
+    <None Remove="_templates\**" />
+    <Page Remove="data\**" />
+    <Page Remove="input\**" />
+    <Page Remove="output\**" />
+    <Page Remove="_templates\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Caliburn.Micro" Version="4.0.173" />
     <PackageReference Include="log4net" Version="2.0.14" />
     <PackageReference Include="System.Windows.Extensions" Version="6.0.0" />
